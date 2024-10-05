@@ -1,5 +1,5 @@
-import java.util.Scanner;
-
+:import java.util.Scanner;
+// Program to calculate Minimum and Maximum of a given set of numbers
 public class MinMaxCalculation {
     public static void main(String[] args) {
         // Input from the user
