@@ -1,3 +1,12 @@
 bin
 .metadata
 .project
+
+.idea/
+
+ #Build directories
+/build/
+
+
+.DS_Store
+Thumbs.db
